@@ -1,0 +1,122 @@
+[
+    {
+        "mission": 1,
+        "question": "Order the words to find out the hidden message in order to know the mission.",
+        "sentence": "You get up at 6:00 o'clock to take a shower ."
+    },
+    {
+        "mission": 2,
+        "question": "It's a long day, you need to know what time you wake up for the next mission, order the words.",
+        "sentence": "The avatar wakes up at 10:00 o'clock ."
+    },
+    {
+        "mission": 3,
+        "question": "For this mission you are in a place where you don't know anything. You need to know the interrogative structure of the simple present to ask the daily routine of the other characters.",
+        "order": "Aux. Verb / Subject / Main Verb / Complement / ?"
+    },
+    {
+        "mission": 4,
+        "question": "Find out what your character eats for breakfast.",
+        "sentence": "He makes eggs with ham and drinks orange juice ."
+    },
+    {
+        "mission": 5,
+        "question": "You have to write the following sentence in negative form 'I feed the dog when I get home'.",
+        "sentence": "I don't feed the dog when I get home ."
+    },
+    {
+        "mission": 6,
+        "question": "Find out the question.",
+        "sentence": "Do you take a nap after breakfast ?"
+    },
+    {
+        "mission": 7,
+        "question": "You have to write the following sentence in affirmative form 'She doesn't eat breakfast'.",
+        "sentence": "She eats breakfast ."
+    },
+    {
+        "mission": 8,
+        "question": "I dropped some cards with the structure of the present simple in affirmative order them.",
+        "order": "Subject / Verb / Complement"
+    },
+    {
+        "mission": 9,
+        "question": "There aren't cards on the board and they say you have them, you need to know the negative form of the present simple, put the cards in the correct order.",
+        "order": "Subject / Auxiliary / Not / Complement"
+    },
+    {
+        "mission": 10,
+        "question": "Find the mistake, order the words to make a sentence.",
+        "sentence": "I go to school in the morning ."
+    },
+    {
+        "mission": 11,
+        "question": "Put the words in order.",
+        "sentence": "She goes to the gym in the afternoons"
+    },
+    {
+        "mission": 11,
+        "question": "Put the words in order.",
+        "sentence": "I drink coffee after work"
+    },
+    {
+        "mission": 11,
+        "question": "Put the words in order.",
+        "sentence": "I never play soccer in the afternoon"
+    },
+    {
+        "mission": 11,
+        "question": "Put the words in order.",
+        "sentence": "Do you eat bread every afternoon ?"
+    },
+    {
+        "mission": 11,
+        "question": "Put the words in order.",
+        "sentence": "You don't work at four o'clock"
+    },
+    {
+        "mission": 11,
+        "question": "Put the words in order.",
+        "sentence": "She reads in bed every afternoon"
+    },
+    {
+        "mission": 11,
+        "question": "Put the words in order.",
+        "sentence": "I don't like fast food"
+    },
+    {
+        "mission": 11,
+        "question": "Put the words in order.",
+        "sentence": "What time do you eat ?"
+    },
+    {
+        "mission": 11,
+        "question": "Put the words in order.",
+        "sentence": "Do you go to the movies in the afternoon ?"
+    },
+    {
+        "mission": 11,
+        "question": "Put the words in order.",
+        "sentence": "Does he play the guitar every week ?"
+    },
+    {
+        "mission": 12,
+        "question": "Order the words to ask a question.",
+        "sentence": "When do you go to sleep ?"
+    },
+    {
+        "mission": 12,
+        "question": "Order the words to ask a question.",
+        "sentence": "What time do you have dinner ?"
+    },
+    {
+        "mission": 12,
+        "question": "Order the words to ask a question.",
+        "sentence": "When do you get home ?"
+    },
+    {
+        "mission": 12,
+        "question": "Order the words to ask a question.",
+        "sentence": "How often do you study at night ?"
+    }
+]
